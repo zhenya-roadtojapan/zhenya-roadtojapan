@@ -38,7 +38,7 @@
 ---
 
 ### 🗾 Words to live by:
->「七転び八起き」- *"Fall seven times, stand up eight."*
+>「七転び八起き」- *"Fall seven times, stand up eight."* <br/>
 >「大きな力には大きな責任が伴う」- *"With great power comes great responsibility."*
 
 ---
