@@ -8,7 +8,7 @@
 - 💻 Learning and leveling up in Web / Python / AI  
 - 📘 Currently diving into: **Pentesting & Japanese (Nihongo 🇯🇵)**  
 - 🎯 2025 Goal: Land an IT job & build a project I'm proud of
-- 🗻 My TryHackMe profile: https://tryhackme.com/p/validateusername
+- 🗻 My TryHackMe profile: https://tryhackme.com/p/shikataGaNai
 
 ---
 
